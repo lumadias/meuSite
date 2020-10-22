@@ -1,0 +1,21 @@
+@charset "utf-8"; /* exemplo se comentário*/ 
+
+h1 { 
+
+        font-family:cursive;
+        text-align:center;
+         background-color: #710000;
+        color: black;
+
+
+}
+
+
+body {
+
+    background-color: darksalmon;
+
+
+
+
+}
